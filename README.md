@@ -1,4 +1,4 @@
-# HC-Store_VLDB
+# HC-Store\_VLDB
+
 This is the supplementary material of VLDB paper.
 
-TBD.
